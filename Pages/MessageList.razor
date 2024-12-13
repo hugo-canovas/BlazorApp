@@ -1,0 +1,37 @@
+﻿@page "/messagelist"
+@using FirstAppBlazor.Models
+
+
+<h3>MessageList</h3>
+
+<MessageAdder OnbuttonAdd="ShowMessage" OnButtonReset="ResetList"/>
+
+@if(ButtonClicked)
+{
+    @foreach(var message in Messages)
+    {
+        <p>@message.Message</p>
+    }
+}
+
+@code {
+    private bool ButtonClicked = false;
+    private List<MessageItem> Messages = new();
+
+    private void ShowMessage(string myMessage)
+    {
+        var newMessage = new MessageItem()
+            {
+                Message = myMessage
+            };
+
+        Messages.Add(newMessage);
+        ButtonClicked = true;
+    }
+
+    private void ResetList()
+    {
+        Messages.Clear();
+
+    }
+}

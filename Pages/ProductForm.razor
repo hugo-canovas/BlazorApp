@@ -1,0 +1,41 @@
+﻿@using FirstAppBlazor.Models
+@* @rendermode InteractiveServer *@
+
+<EditForm Model="@NewProduct" OnValidSubmit="@AjoutProduct">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="name">Nom du produit :</label>
+        <InputText id="name" @bind-Value="NewProduct.Name" class="form-control" />
+        <ValidationMessage For="@(() => NewProduct.Name)" />
+    </div>
+
+    <div>
+        <label for="price">Prix :</label>
+        <InputNumber id="price" @bind-Value="NewProduct.Price" class="form-control" />
+        <ValidationMessage For="@(() => NewProduct.Price)" />
+    </div>
+
+    <div>
+        <label for="stock">Stock :</label>
+        <InputNumber id="stock" @bind-Value="NewProduct.Stock" class="form-control" />
+        <ValidationMessage For="@(() => NewProduct.Stock)" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Ajouter</button>
+</EditForm>
+
+@code
+{
+    private Product NewProduct = new();
+
+    [Parameter]
+    public EventCallback<Product> OnAddProduct { get; set; }
+
+    private async Task AjoutProduct()
+    {
+        await OnAddProduct.InvokeAsync(NewProduct);
+        NewProduct = new Product();
+    }
+}

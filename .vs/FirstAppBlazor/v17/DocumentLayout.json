@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|c:\\users\\hcanovas\\desktop\\cours cda\\firstappblazor\\pages\\productform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|solutionrelative:pages\\productform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|c:\\users\\hcanovas\\desktop\\cours cda\\firstappblazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:43:15.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.razor",
+              "DocumentMoniker": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Pages\\ProductForm.razor",
+              "RelativeDocumentMoniker": "Pages\\ProductForm.razor",
+              "ToolTip": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Pages\\ProductForm.razor",
+              "RelativeToolTip": "Pages\\ProductForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:42:02.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

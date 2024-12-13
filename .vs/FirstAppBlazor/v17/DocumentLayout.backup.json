@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|c:\\users\\hcanovas\\desktop\\cours cda\\firstappblazor\\validators\\productnamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|solutionrelative:validators\\productnamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|c:\\users\\hcanovas\\desktop\\cours cda\\firstappblazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|c:\\users\\hcanovas\\desktop\\cours cda\\firstappblazor\\validators\\productpricevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|solutionrelative:validators\\productpricevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|c:\\users\\hcanovas\\desktop\\cours cda\\firstappblazor\\pages\\productform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|solutionrelative:pages\\productform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|c:\\users\\hcanovas\\desktop\\cours cda\\firstappblazor\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|solutionrelative:pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|c:\\users\\hcanovas\\desktop\\cours cda\\firstappblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F8EE66D-075B-47D4-8E8E-B9CBF99CA8D2}|FirstAppBlazor.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductForm.razor",
+              "DocumentMoniker": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Pages\\ProductForm.razor",
+              "RelativeDocumentMoniker": "Pages\\ProductForm.razor",
+              "ToolTip": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Pages\\ProductForm.razor",
+              "RelativeToolTip": "Pages\\ProductForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:45:30.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductPriceValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Validators\\ProductPriceValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\ProductPriceValidator.cs",
+              "ToolTip": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Validators\\ProductPriceValidator.cs",
+              "RelativeToolTip": "Validators\\ProductPriceValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:39:05.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:37:12.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductNameValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Validators\\ProductNameValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\ProductNameValidator.cs",
+              "ToolTip": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Validators\\ProductNameValidator.cs",
+              "RelativeToolTip": "Validators\\ProductNameValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:28:08.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Pages\\ProductList.razor",
+              "RelativeDocumentMoniker": "Pages\\ProductList.razor",
+              "ToolTip": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Pages\\ProductList.razor",
+              "RelativeToolTip": "Pages\\ProductList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:24:47.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\hcanovas\\Desktop\\Cours CDA\\FirstAppBlazor\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:24:27.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
